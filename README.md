@@ -8,6 +8,13 @@ What starts as a normal journey quickly turns into an exploration filled with se
 
 ---
 
+
+## 🎬 Gameplay Video
+
+[![Watch Demo Video](https://img.shields.io/badge/▶%20Watch-Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=nsoE3nH9JQo)
+
+---
+
 ## 🌆 Game Concept
 
 The player navigates through a dark, foggy city, interacting with characters, collecting items, and completing tasks in order to progress.
@@ -78,9 +85,3 @@ Complete all tasks and obtain the flowers to return to your original goal.
 ---
 
 Enjoy exploring the city… but not everything is what it seems. 👁️
-
----
-
-## 🎬 Gameplay Video
-
-[![Watch Demo Video](https://img.shields.io/badge/▶%20Watch-Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=nsoE3nH9JQo)
