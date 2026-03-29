@@ -83,4 +83,4 @@ Enjoy exploring the city… but not everything is what it seems. 👁️
 
 ## 🎬 Gameplay Video
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=nsoE3nH9JQo)
+[![Watch Demo Video](https://img.shields.io/badge/▶%20Watch-Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=nsoE3nH9JQo)
