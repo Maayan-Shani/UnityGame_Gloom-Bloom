@@ -78,3 +78,9 @@ Complete all tasks and obtain the flowers to return to your original goal.
 ---
 
 Enjoy exploring the city… but not everything is what it seems. 👁️
+
+---
+
+## 🎬 Gameplay Video
+
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=nsoE3nH9JQo)
